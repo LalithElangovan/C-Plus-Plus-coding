@@ -12,9 +12,6 @@ void playMove(GameState &);
 int main()
 {
 
-    /**********************************************************************************/
-    /* Create an initialized game state object                                        */
-    /**********************************************************************************/
     GameState game_state;
 
     // Read two integers from the user that represent the row and column
